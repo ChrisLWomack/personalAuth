@@ -1,0 +1,26 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url('img/fire.gif');
+  background-size: cover;
+}
+img{
+  height: 200px;
+}
+.jumbotron.text-center{
+background-image: url('img/crowd.png');
+background-size: cover;
+color: white;
+}
+.page-header.text-center{
+  color: white;
+}
+.col-sm-6{
+  color: white;
+}
+.well p, .well h2, .well h3{
+  color: black;
+}
+.info{
+  border: 2px solid black;
+}
