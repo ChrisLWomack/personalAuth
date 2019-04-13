@@ -24,3 +24,12 @@ color: white;
 .info{
   border: 2px solid black;
 }
+ul{
+  list-style: none;
+}
+.row h2{
+  margin-left: 44%;
+}
+form{
+  margin-left: 24%;
+}
